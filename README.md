@@ -24,12 +24,10 @@ who is the website intended for? Hairstylists and Beauty Professionals!
 - Mobile First Design
   
 ## Technologies
+
 -HTML
-
 -CSS
-
 -JavaScript
-
 -GitHub
 
 ## Screenshots 
