@@ -25,16 +25,15 @@ who is the website intended for?
   
 ## Technologies
 -HTML
+
 -CSS
+
 -JavaScript
+
 -GitHub
 
 ## Screenshots 
 [images]
+
 ## What I learned 
 Explain Impostant Skills used in the Project
-
-```bash
-git clone [https://github.com/username/project-name.git](https://github.com/username/project-name.git)
-cd project-name
-npm install
