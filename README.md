@@ -25,10 +25,13 @@ who is the website intended for? Hairstylists and Beauty Professionals!
   
 ## Technologies
 
--HTML
--CSS
--JavaScript
--GitHub
+ -HTML
+
+ -CSS
+ 
+ -JavaScript 
+ 
+ -GitHub
 
 ## Screenshots 
 [images]
