@@ -1,6 +1,6 @@
-# Project - Portfolio 
+# Project - My First Portfolio 
 
-A concise, one-sentence description of what this project does and who it is for.
+New Project from a beginner at GitHub!
 
 ## Features
 
@@ -12,10 +12,10 @@ A concise, one-sentence description of what this project does and who it is for.
 I built this using...
 
 ## The Problem 
-what problem was the website designed to solve?
+what problem was the website designed to solve? Accessible Site for Beginners!
 
 ## Target Audience
-who is the website intended for?
+who is the website intended for? Hairstylists and Beauty Professionals!
 
 ## Features 
 - Responsive navigation
@@ -36,4 +36,4 @@ who is the website intended for?
 [images]
 
 ## What I learned 
-Explain Impostant Skills used in the Project
+Learning Basic Coding and Web Development 
