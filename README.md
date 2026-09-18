@@ -33,8 +33,11 @@ who is the website intended for? Hairstylists and Beauty Professionals!
  
 - GitHub
 
-## Screenshots 
-[images]
+## My Instagram 
+![Me Relaxing Getting my Own Hair Done](https://www.instagram.com/blowdrybae/p/DZdrCduj6XB/)
+
+For more hair content, check out my Instagram! 
+(https://www.instagram.com/blowdrybae)
 
 ## What I learned 
 Learning Basic Coding and Web Development 
